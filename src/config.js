@@ -1,4 +1,5 @@
 const config = {
+    STRIPE_KEY: "pk_test_iuTDrBCa4FPVEH8V2xefBOxk",
     s3: {
       REGION: "us-east-1",
       BUCKET: "fba1-api-prod-serverlessdeploymentbucket-mjf0vi6o8bee",
